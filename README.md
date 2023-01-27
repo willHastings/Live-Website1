@@ -1,0 +1,1 @@
+- Click the stars to increase your score, try to achieve the highest score possible. After every 10 stars you collect the level will change along with the object you're collecting and the background.
